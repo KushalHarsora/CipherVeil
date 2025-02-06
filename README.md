@@ -54,7 +54,7 @@ For more detailed explaination refer to ```test.js```
 
 ## Documentation
 
-[Documentation](https://github.com/YashAPro1/Major.github.io)
+[Documentation](https://github.com/KushalHarsora/CipherVeil)
 
 ## Authors
 
