@@ -7,7 +7,7 @@ A hybrid cryptographic system combining encryption and steganography.
 To install **Cipher Veil**, run the following command:
 
 ```bash
-  npm install cipherveil
+  npm install cipher-veil
 ```
 
 ## Usage
@@ -17,7 +17,7 @@ To use the package in your code you can refer to this Example.
 #### Example Usage
 ```javascript
 import fs from 'fs';
-import { cipherVeil } from 'cipherveil';
+import { cipherVeil } from 'cipher-veil';
 
 const secret_message = "This is a secret message";
 const secret_key = "supersecretkey";
