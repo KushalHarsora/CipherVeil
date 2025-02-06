@@ -1,16 +1,19 @@
 {
   "name": "cipherveil",
   "version": "1.0.0",
-  "description": "A hybrid cryptographic system combining encryption and steganography",
-  "homepage": "https://github.com/YashAPro1/Major#readme",
+  "description": "A hybrid data encryption framework using steganography",
+  "keywords": [
+    "security"
+  ],
+  "homepage": "https://github.com/KushalHarsora/CipherVeil#readme",
   "bugs": {
-    "url": "https://github.com/YashAPro1/Major/issues"
+    "url": "https://github.com/KushalHarsora/CipherVeil/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/YashAPro1/Major.git"
+    "url": "git+https://github.com/KushalHarsora/CipherVeil.git"
   },
-  "license": "ISC",
+  "license": "MIT",
   "author": "Kushal Harsora",
   "type": "module",
   "main": "main.js",
