@@ -23,6 +23,3 @@ cipherVeil(secret_message, secret_key, cover_imageBuffer)
   .catch((err) => {
     console.error("Error during steganography:", err);
   });
-
-// decrypt
-
