@@ -22,6 +22,8 @@ To use the package in your code you can refer to this Example.
   
   console.log(result);
 ```
+
+For more detailed explaination refer to ```test.js```
     
 ## Features
 
